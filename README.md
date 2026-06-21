@@ -1,69 +1,28 @@
-<h1 align="center">Hi, I'm Muhammad Hassan Sohail! 👋</h1>
-<h3 align="center">AI & Embedded Systems Engineer | Industrial Automation | Robotics 🚀</h3>
+# Muhammad Hassan Sohail
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38C2FF&center=true&vCenter=true&multiline=true&width=700&height=50&lines=Passionate+about+AI-driven+Industrial+Automation;Embedded+Systems+%7C+Edge+Computing+%7C+IoT;DevOps+%7C+Cloud+%7C+Full-Stack+AI+Development" alt="Typing SVG" />
-</p>
+**AI / Machine Learning Engineer** | Founder, stealth robotics-AI startup
 
----
+LLMs, multi-agent systems, RAG and edge AI in production. MSc Computer Science & Engineering, University of Oulu.
 
-## 🚀 **About Me**
-- 🎓 **MSc Computer Science** @ *University of Oulu, Finland* (2024-2026)
-- 🤖 **AI & Embedded Systems Engineer** | **Industrial Automation & IoT Enthusiast**
-- 🔬 Passionate about **AI-powered Robotics, Smart Manufacturing, Edge Computing & Cloud-Edge AI**
-- 💡 Open-source contributor | Always learning & innovating 🚀
-- 🎯 Seeking **AI/ML, IoT, Embedded Systems & DevOps** opportunities
+I build AI systems that make their own decisions and hold up in production, where large language models, multi-agent coordination, and edge computing meet real hardware and real users.
 
----
+### What I'm building
 
-## 🛠️ **Tech Stack & Skills**
-### **🔹 Programming Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
-![Shell](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+- **Founder** of an early-stage startup: a real-time federated-learning layer that lets fleets of robots learn from each other without sending raw data to the cloud.
+- **Master's thesis**: a platform where seven LLM agents run B2B marketing end to end with a built-in safety and governance layer. Beat a rule-based baseline by 89% in simulation, graded 5/5 and funded by a €20,000 research grant.
+- Two years at **Cowlar (Y Combinator W17)**: embedded and computer-vision systems on the factory floor, including a machine-vision fiber-aligner that took output from 15 to 120 units an hour.
 
-### **🔹 AI & Machine Learning**
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+### Selected projects
 
-### **🔹 Embedded & IoT**
-![ESP32](https://img.shields.io/badge/-ESP32-00979D?style=flat&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
-![Jetson Nano](https://img.shields.io/badge/-Jetson%20Nano-76B900?style=flat&logo=nvidia&logoColor=white)
+- [**turtlebot4-people-avoidance**](https://github.com/hsn07pk/turtlebot4-people-avoidance): people-aware robot navigation with a Control Barrier Function safety filter (ROS 2).
+- [**BloomOulu**](https://github.com/hsn07pk/BloomOulu): trilingual platform for the Oulu Botanical Garden ([live demo](https://bloom-oulu.vercel.app/demo-design/)).
+- [**SmartConveyor-ICS**](https://github.com/hsn07pk/SmartConveyor-ICS): distributed industrial control system (Raft, Kafka, Kubernetes).
+- [**EyeAI**](https://github.com/hsn07pk/EyeAI-Retinopathy-Detection): diabetic-retinopathy detection with deep learning and Grad-CAM.
 
-### **🔹 DevOps & Cloud**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx&logoColor=white)
+### Tech
 
----
+Python · C/C++ · PyTorch · TensorFlow · LangGraph · LangChain · FastAPI · RAG and vector search · Docker · Kubernetes · AWS · ROS 2 · NVIDIA Jetson · ESP32 / STM32
 
-## 📈 **GitHub Stats**
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hsn07pk&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hsn07pk&theme=radical" />
-</p>
+### Reach me
 
----
-
-## 🏆 **GitHub Achievements**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hsn07pk&theme=onedark&margin-w=5&margin-h=5" />
-</p>
-
----
-
-## 🔗 **Connect With Me**
-📩 **Email:** hsn07pk@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/mhassan-sohail](https://www.linkedin.com/in/mhassan-sohail)  
-📡 **GitHub:** [github.com/hsn07pk](https://github.com/hsn07pk)  
-
----
-
-⚡ **Fun Fact:** *"The best way to predict the future is to create it!"* 🚀  
+[LinkedIn](https://www.linkedin.com/in/mhassan-sohail) · hsn07pk@gmail.com
