@@ -1,28 +1,41 @@
 # Muhammad Hassan Sohail
 
-**AI / Machine Learning Engineer** | Founder, stealth robotics-AI startup
+AI/ML engineer in Oulu, Finland. MSc in Computer Science and Engineering, University of Oulu. Founder of an early-stage robotics-AI startup.
 
-LLMs, multi-agent systems, RAG and edge AI in production. MSc Computer Science & Engineering, University of Oulu.
+## What I do now
 
-I build AI systems that make their own decisions and hold up in production, where large language models, multi-agent coordination, and edge computing meet real hardware and real users.
+- Building a federated fleet-learning layer for robots: fleets improve from each other's experience without sending raw data to the cloud.
 
-### What I'm building
+- MSc thesis: a multi-agent LLM marketing platform with a built-in safety and governance layer. It beat a rule-based baseline by 89% in simulation, was graded 5/5, and was funded by a 20,000 euro research grant.
 
-- **Founder** of an early-stage startup: a real-time federated-learning layer that lets fleets of robots learn from each other without sending raw data to the cloud.
-- **Master's thesis**: a platform where seven LLM agents run B2B marketing end to end with a built-in safety and governance layer. Beat a rule-based baseline by 89% in simulation, graded 5/5 and funded by a €20,000 research grant.
-- Two years at **Cowlar (Y Combinator W17)**: embedded and computer-vision systems on the factory floor, including a machine-vision fiber-aligner that took output from 15 to 120 units an hour.
+- Before that, two years at Cowlar (Y Combinator W17) on embedded and machine-vision systems, including a machine-vision fiber-aligner that took output from 15 to 120 units an hour.
 
-### Selected projects
+## Selected projects
 
-- [**turtlebot4-people-avoidance**](https://github.com/hsn07pk/turtlebot4-people-avoidance): people-aware robot navigation with a Control Barrier Function safety filter (ROS 2).
-- [**BloomOulu**](https://github.com/hsn07pk/BloomOulu): trilingual platform for the Oulu Botanical Garden ([live demo](https://bloom-oulu.vercel.app/demo-design/)).
-- [**SmartConveyor-ICS**](https://github.com/hsn07pk/SmartConveyor-ICS): distributed industrial control system (Raft, Kafka, Kubernetes).
-- [**EyeAI**](https://github.com/hsn07pk/EyeAI-Retinopathy-Detection): diabetic-retinopathy detection with deep learning and Grad-CAM.
+- [agentic-marketing-platform-public](https://github.com/hsn07pk/agentic-marketing-platform-public): de-identified public release of the thesis platform, with LangGraph agents over a SimPy market simulation, pgvector RAG, contextual bandits gated by off-policy evaluation, and human-in-the-loop governance.
 
-### Tech
+- [turtlebot4-people-avoidance](https://github.com/hsn07pk/turtlebot4-people-avoidance): people-aware TurtleBot4 navigation in ROS 2, from LiDAR leg detection through multi-target Kalman tracking to a Control Barrier Function safety filter, with a live web dashboard.
 
-Python · C/C++ · PyTorch · TensorFlow · LangGraph · LangChain · FastAPI · RAG and vector search · Docker · Kubernetes · AWS · ROS 2 · NVIDIA Jetson · ESP32 / STM32
+- [BloomOulu](https://github.com/hsn07pk/BloomOulu): platform for the University of Oulu Botanical Garden, a Next.js + NestJS monorepo with a local RAG plant guide, donations, QR labels, and a kiosk ([live demo](https://bloom-oulu.vercel.app/demo-design/)).
 
-### Reach me
+- [looking-glass](https://github.com/hsn07pk/looking-glass): natural-language video search over camera footage, fully local, built on YOLO-World, SigLIP, Qdrant, Ollama, FastAPI, and React.
 
-[LinkedIn](https://www.linkedin.com/in/mhassan-sohail) · hsn07pk@gmail.com
+- [SmartConveyor-ICS](https://github.com/hsn07pk/SmartConveyor-ICS): conveyor industrial-control simulation on Kubernetes, with leader-gated gRPC servers, Kafka telemetry into InfluxDB, and CrewAI agents on Ollama.
+
+- [EyeAI-Retinopathy-Detection](https://github.com/hsn07pk/EyeAI-Retinopathy-Detection): diabetic retinopathy grading on DeepDRiD with PyTorch, using transfer-learning backbones, bagging/boosting/stacking ensembles, and GradCAM explanations.
+
+## Tech
+
+- Languages: Python, C/C++, TypeScript
+
+- ML: PyTorch, LangGraph, LangChain, RAG with pgvector and Qdrant, Ollama, contextual bandits with off-policy evaluation
+
+- Backend: FastAPI, NestJS, Next.js, PostgreSQL, Redis, Kafka, gRPC, MQTT, InfluxDB
+
+- Robotics and edge: ROS 2, TurtleBot4, MicroPython on the Raspberry Pi Pico W
+
+- Infra: Docker, Kubernetes, Prometheus + Grafana, GitHub Actions
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/mhassan-sohail) | hsn07pk@gmail.com
